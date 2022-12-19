@@ -1,0 +1,1 @@
+Нужно зарегистрировать модуль RegisterModule("site.main");
